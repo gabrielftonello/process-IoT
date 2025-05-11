@@ -1,0 +1,3025 @@
+device;ano-mes;sensor;valor_maximo;valor_medio;valor_minimo
+Bento - Igreja Cristo Rei (15);2024-03;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-03;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-03;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-03;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-03;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-03;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-03;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-03;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-03;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-03;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-03;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-03;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-03;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-03;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-03;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-03;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-03;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-03;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-03;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-03;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-03;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-03;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-03;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-03;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-03;eco2;170.0;1.515;0.0
+sirrosteste_UCS_AMV-01;2024-03;etvoc;1481.0;410.563;400.0
+sirrosteste_UCS_AMV-01;2024-03;luminosidade;27306.2;4579.499;0.0
+sirrosteste_UCS_AMV-01;2024-03;ruido;120.0;102.232;0.0
+sirrosteste_UCS_AMV-01;2024-03;temperatura;44.7;24.65;0.0
+sirrosteste_UCS_AMV-01;2024-03;umidade;97.6;73.674;0.0
+sirrosteste_UCS_AMV-04;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2024-03;eco2;1161.0;33.676;0.0
+sirrosteste_UCS_AMV-05;2024-03;etvoc;2210.0;621.123;400.0
+sirrosteste_UCS_AMV-05;2024-03;luminosidade;11665.7;306.187;0.0
+sirrosteste_UCS_AMV-05;2024-03;ruido;120.0;61.777;39.8
+sirrosteste_UCS_AMV-05;2024-03;temperatura;34.8;24.81;16.6
+sirrosteste_UCS_AMV-05;2024-03;umidade;91.0;59.95;38.8
+sirrosteste_UCS_AMV-06;2024-03;eco2;897.0;23.105;0.0
+sirrosteste_UCS_AMV-06;2024-03;etvoc;2085.0;494.937;400.0
+sirrosteste_UCS_AMV-06;2024-03;luminosidade;1990.5;84.267;0.1
+sirrosteste_UCS_AMV-06;2024-03;ruido;120.0;74.614;41.5
+sirrosteste_UCS_AMV-06;2024-03;temperatura;32.6;23.149;13.1
+sirrosteste_UCS_AMV-06;2024-03;umidade;100.0;71.444;37.6
+sirrosteste_UCS_AMV-07;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2024-03;eco2;2504.0;26.941;0.0
+sirrosteste_UCS_AMV-11;2024-03;etvoc;2833.0;536.832;400.0
+sirrosteste_UCS_AMV-11;2024-03;luminosidade;9843.5;405.218;0.0
+sirrosteste_UCS_AMV-11;2024-03;ruido;120.0;61.866;41.6
+sirrosteste_UCS_AMV-11;2024-03;temperatura;37.3;25.041;0.0
+sirrosteste_UCS_AMV-11;2024-03;umidade;99.9;61.533;0.0
+sirrosteste_UCS_AMV-12;2024-03;eco2;546.0;27.563;0.0
+sirrosteste_UCS_AMV-12;2024-03;etvoc;1873.0;578.879;400.0
+sirrosteste_UCS_AMV-12;2024-03;luminosidade;27306.2;1488.144;0.0
+sirrosteste_UCS_AMV-12;2024-03;ruido;111.4;57.077;41.6
+sirrosteste_UCS_AMV-12;2024-03;temperatura;38.5;24.405;20.4
+sirrosteste_UCS_AMV-12;2024-03;umidade;68.5;55.977;30.9
+sirrosteste_UCS_AMV-13;2024-03;eco2;88.0;17.877;0.0
+sirrosteste_UCS_AMV-13;2024-03;etvoc;984.0;405.754;400.0
+sirrosteste_UCS_AMV-13;2024-03;luminosidade;2202.9;46.52;0.0
+sirrosteste_UCS_AMV-13;2024-03;ruido;111.0;62.237;41.2
+sirrosteste_UCS_AMV-13;2024-03;temperatura;36.2;26.415;19.3
+sirrosteste_UCS_AMV-13;2024-03;umidade;68.3;57.623;29.9
+sirrosteste_UCS_AMV-14;2024-03;eco2;370.0;28.695;0.0
+sirrosteste_UCS_AMV-14;2024-03;etvoc;1731.0;590.34;400.0
+sirrosteste_UCS_AMV-14;2024-03;luminosidade;27306.2;501.531;0.0
+sirrosteste_UCS_AMV-14;2024-03;ruido;111.1;59.555;44.7
+sirrosteste_UCS_AMV-14;2024-03;temperatura;40.5;26.034;22.0
+sirrosteste_UCS_AMV-14;2024-03;umidade;73.0;61.217;27.8
+sirrosteste_UCS_AMV-15;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-03;eco2;3003.0;46.68;0.0
+sirrosteste_UCS_AMV-16;2024-03;etvoc;3072.0;669.026;400.0
+sirrosteste_UCS_AMV-16;2024-03;luminosidade;8185.4;228.075;0.0
+sirrosteste_UCS_AMV-16;2024-03;ruido;120.0;68.855;43.9
+sirrosteste_UCS_AMV-16;2024-03;temperatura;33.6;27.341;19.0
+sirrosteste_UCS_AMV-16;2024-03;umidade;72.5;57.693;39.4
+sirrosteste_UCS_AMV-17;2024-03;eco2;3790.0;50.022;0.0
+sirrosteste_UCS_AMV-17;2024-03;etvoc;3440.0;567.58;381.0
+sirrosteste_UCS_AMV-17;2024-03;luminosidade;13220.8;865.749;-1.0
+sirrosteste_UCS_AMV-17;2024-03;ruido;120.0;86.137;56.9
+sirrosteste_UCS_AMV-17;2024-03;temperatura;406.1;-7.928;-1405.1
+sirrosteste_UCS_AMV-17;2024-03;umidade;3935.0;291.713;18.7
+sirrosteste_UCS_AMV-18;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-03;eco2;396.0;9.681;0.0
+sirrosteste_UCS_AMV-19;2024-03;etvoc;1754.0;413.681;400.0
+sirrosteste_UCS_AMV-19;2024-03;luminosidade;2639.4;25.888;0.0
+sirrosteste_UCS_AMV-19;2024-03;ruido;120.0;65.295;41.7
+sirrosteste_UCS_AMV-19;2024-03;temperatura;39.5;27.272;20.5
+sirrosteste_UCS_AMV-19;2024-03;umidade;86.8;63.375;40.0
+sirrosteste_UCS_AMV-20;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-03;eco2;20.0;19.277;0.0
+sirrosteste_UCS_AMV-21;2024-03;etvoc;445.0;403.701;400.0
+sirrosteste_UCS_AMV-21;2024-03;luminosidade;25019.1;2889.19;-1.0
+sirrosteste_UCS_AMV-21;2024-03;ruido;110.7;83.56;61.0
+sirrosteste_UCS_AMV-21;2024-03;temperatura;53.6;32.383;14.1
+sirrosteste_UCS_AMV-21;2024-03;umidade;93.1;51.779;18.3
+sirrosteste_UCS_AMV-22;2024-03;eco2;5589.0;175.07;0.0
+sirrosteste_UCS_AMV-22;2024-03;etvoc;4282.0;763.501;400.0
+sirrosteste_UCS_AMV-22;2024-03;luminosidade;7828.4;17.559;0.0
+sirrosteste_UCS_AMV-22;2024-03;ruido;120.0;70.182;43.8
+sirrosteste_UCS_AMV-22;2024-03;temperatura;35.6;28.277;20.6
+sirrosteste_UCS_AMV-22;2024-03;umidade;89.3;66.144;37.4
+sirrosteste_UCS_AMV-23;2024-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-03;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-04;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-04;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-04;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-04;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-04;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-04;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-04;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-04;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-04;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-04;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-04;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-04;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-04;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-04;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-04;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-04;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-04;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-04;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-04;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-04;eco2;1182.0;143.06;0.0
+sirrosteste_UCS_AMV-04;2024-04;etvoc;2217.0;906.805;400.0
+sirrosteste_UCS_AMV-04;2024-04;luminosidade;9084.4;237.041;-1.0
+sirrosteste_UCS_AMV-04;2024-04;ruido;120.0;78.018;38.2
+sirrosteste_UCS_AMV-04;2024-04;temperatura;30.3;23.322;19.3
+sirrosteste_UCS_AMV-04;2024-04;umidade;84.2;69.372;47.6
+sirrosteste_UCS_AMV-05;2024-04;eco2;6418.0;57.992;0.0
+sirrosteste_UCS_AMV-05;2024-04;etvoc;4671.0;705.132;400.0
+sirrosteste_UCS_AMV-05;2024-04;luminosidade;5258.4;541.459;0.0
+sirrosteste_UCS_AMV-05;2024-04;ruido;111.6;72.535;50.8
+sirrosteste_UCS_AMV-05;2024-04;temperatura;35.7;20.64;9.8
+sirrosteste_UCS_AMV-05;2024-04;umidade;95.8;76.793;37.1
+sirrosteste_UCS_AMV-06;2024-04;eco2;244.0;19.599;0.0
+sirrosteste_UCS_AMV-06;2024-04;etvoc;1598.0;403.653;400.0
+sirrosteste_UCS_AMV-06;2024-04;luminosidade;1370.9;96.943;0.4
+sirrosteste_UCS_AMV-06;2024-04;ruido;120.0;82.97;58.0
+sirrosteste_UCS_AMV-06;2024-04;temperatura;33.0;19.852;11.9
+sirrosteste_UCS_AMV-06;2024-04;umidade;100.0;88.579;44.3
+sirrosteste_UCS_AMV-07;2024-04;eco2;1188.0;71.361;0.0
+sirrosteste_UCS_AMV-07;2024-04;etvoc;2222.0;762.466;400.0
+sirrosteste_UCS_AMV-07;2024-04;luminosidade;5062.6;381.903;0.0
+sirrosteste_UCS_AMV-07;2024-04;ruido;103.0;58.43;39.0
+sirrosteste_UCS_AMV-07;2024-04;temperatura;26.2;22.416;18.7
+sirrosteste_UCS_AMV-07;2024-04;umidade;79.2;70.442;59.7
+sirrosteste_UCS_AMV-08;2024-04;eco2;830.0;23.386;0.0
+sirrosteste_UCS_AMV-08;2024-04;etvoc;2051.0;532.301;400.0
+sirrosteste_UCS_AMV-08;2024-04;luminosidade;11006.0;616.633;0.0
+sirrosteste_UCS_AMV-08;2024-04;ruido;111.9;68.57;41.7
+sirrosteste_UCS_AMV-08;2024-04;temperatura;31.8;20.266;13.5
+sirrosteste_UCS_AMV-08;2024-04;umidade;97.2;73.224;44.0
+sirrosteste_UCS_AMV-09;2024-04;eco2;20.0;19.995;0.0
+sirrosteste_UCS_AMV-09;2024-04;etvoc;403.0;403.0;401.0
+sirrosteste_UCS_AMV-09;2024-04;luminosidade;226.5;1.112;0.0
+sirrosteste_UCS_AMV-09;2024-04;ruido;112.8;84.306;49.8
+sirrosteste_UCS_AMV-09;2024-04;temperatura;28.3;22.088;19.9
+sirrosteste_UCS_AMV-09;2024-04;umidade;77.0;63.832;49.7
+sirrosteste_UCS_AMV-10;2024-04;eco2;1186.0;82.722;0.0
+sirrosteste_UCS_AMV-10;2024-04;etvoc;2221.0;748.567;400.0
+sirrosteste_UCS_AMV-10;2024-04;luminosidade;130.3;5.11;0.0
+sirrosteste_UCS_AMV-10;2024-04;ruido;120.0;63.706;40.9
+sirrosteste_UCS_AMV-10;2024-04;temperatura;28.3;21.463;15.7
+sirrosteste_UCS_AMV-10;2024-04;umidade;96.6;69.345;49.4
+sirrosteste_UCS_AMV-11;2024-04;eco2;190.0;20.03;15.0
+sirrosteste_UCS_AMV-11;2024-04;etvoc;1490.0;403.294;403.0
+sirrosteste_UCS_AMV-11;2024-04;luminosidade;9277.7;1050.001;0.0
+sirrosteste_UCS_AMV-11;2024-04;ruido;120.0;72.463;49.5
+sirrosteste_UCS_AMV-11;2024-04;temperatura;35.3;18.09;0.0
+sirrosteste_UCS_AMV-11;2024-04;umidade;99.9;67.514;0.0
+sirrosteste_UCS_AMV-12;2024-04;eco2;1180.0;35.445;0.0
+sirrosteste_UCS_AMV-12;2024-04;etvoc;2216.0;581.52;400.0
+sirrosteste_UCS_AMV-12;2024-04;luminosidade;27306.2;468.556;0.0
+sirrosteste_UCS_AMV-12;2024-04;ruido;120.0;63.912;41.3
+sirrosteste_UCS_AMV-12;2024-04;temperatura;34.8;23.842;19.5
+sirrosteste_UCS_AMV-12;2024-04;umidade;78.1;59.125;36.9
+sirrosteste_UCS_AMV-13;2024-04;eco2;6565.0;50.66;0.0
+sirrosteste_UCS_AMV-13;2024-04;etvoc;4164.0;663.726;400.0
+sirrosteste_UCS_AMV-13;2024-04;luminosidade;1791.6;86.546;0.0
+sirrosteste_UCS_AMV-13;2024-04;ruido;120.0;62.82;38.5
+sirrosteste_UCS_AMV-13;2024-04;temperatura;33.2;23.679;18.9
+sirrosteste_UCS_AMV-13;2024-04;umidade;77.5;63.239;40.7
+sirrosteste_UCS_AMV-14;2024-04;eco2;1173.0;51.099;0.0
+sirrosteste_UCS_AMV-14;2024-04;etvoc;2214.0;662.818;400.0
+sirrosteste_UCS_AMV-14;2024-04;luminosidade;20482.0;129.787;0.0
+sirrosteste_UCS_AMV-14;2024-04;ruido;110.6;64.796;44.4
+sirrosteste_UCS_AMV-14;2024-04;temperatura;37.7;24.765;21.5
+sirrosteste_UCS_AMV-14;2024-04;umidade;79.6;62.416;30.0
+sirrosteste_UCS_AMV-15;2024-04;eco2;1077.0;40.867;0.0
+sirrosteste_UCS_AMV-15;2024-04;etvoc;2170.0;652.059;400.0
+sirrosteste_UCS_AMV-15;2024-04;luminosidade;1619.2;102.727;0.0
+sirrosteste_UCS_AMV-15;2024-04;ruido;120.0;67.845;0.0
+sirrosteste_UCS_AMV-15;2024-04;temperatura;35.2;21.411;14.0
+sirrosteste_UCS_AMV-15;2024-04;umidade;97.8;69.476;30.7
+sirrosteste_UCS_AMV-16;2024-04;eco2;4859.0;71.493;0.0
+sirrosteste_UCS_AMV-16;2024-04;etvoc;3930.0;816.384;400.0
+sirrosteste_UCS_AMV-16;2024-04;luminosidade;184.6;1.343;0.0
+sirrosteste_UCS_AMV-16;2024-04;ruido;120.0;61.102;43.6
+sirrosteste_UCS_AMV-16;2024-04;temperatura;31.2;23.592;19.5
+sirrosteste_UCS_AMV-16;2024-04;umidade;81.1;65.01;43.9
+sirrosteste_UCS_AMV-17;2024-04;eco2;2543.0;62.583;0.0
+sirrosteste_UCS_AMV-17;2024-04;etvoc;2854.0;641.41;382.0
+sirrosteste_UCS_AMV-17;2024-04;luminosidade;309.5;3.691;-1.0
+sirrosteste_UCS_AMV-17;2024-04;ruido;120.0;82.331;0.0
+sirrosteste_UCS_AMV-17;2024-04;temperatura;628.5;-21.801;-1904.3
+sirrosteste_UCS_AMV-17;2024-04;umidade;5193.5;373.699;21.1
+sirrosteste_UCS_AMV-18;2024-04;eco2;1085.0;26.762;0.0
+sirrosteste_UCS_AMV-18;2024-04;etvoc;2174.0;552.495;400.0
+sirrosteste_UCS_AMV-18;2024-04;luminosidade;6307.1;488.854;0.0
+sirrosteste_UCS_AMV-18;2024-04;ruido;120.0;70.734;41.3
+sirrosteste_UCS_AMV-18;2024-04;temperatura;35.0;21.182;14.0
+sirrosteste_UCS_AMV-18;2024-04;umidade;118.9;81.625;40.8
+sirrosteste_UCS_AMV-19;2024-04;eco2;1192.0;92.701;0.0
+sirrosteste_UCS_AMV-19;2024-04;etvoc;2224.0;702.636;400.0
+sirrosteste_UCS_AMV-19;2024-04;luminosidade;3574.4;86.275;0.0
+sirrosteste_UCS_AMV-19;2024-04;ruido;120.0;64.439;41.4
+sirrosteste_UCS_AMV-19;2024-04;temperatura;37.4;23.566;0.0
+sirrosteste_UCS_AMV-19;2024-04;umidade;97.2;66.734;0.0
+sirrosteste_UCS_AMV-20;2024-04;eco2;554.0;40.648;0.0
+sirrosteste_UCS_AMV-20;2024-04;etvoc;1875.0;667.121;400.0
+sirrosteste_UCS_AMV-20;2024-04;luminosidade;275.3;1.726;0.0
+sirrosteste_UCS_AMV-20;2024-04;ruido;120.0;58.16;43.0
+sirrosteste_UCS_AMV-20;2024-04;temperatura;28.3;22.4;19.2
+sirrosteste_UCS_AMV-20;2024-04;umidade;73.6;64.926;53.0
+sirrosteste_UCS_AMV-21;2024-04;eco2;187.0;21.172;0.0
+sirrosteste_UCS_AMV-21;2024-04;etvoc;1523.0;544.776;400.0
+sirrosteste_UCS_AMV-21;2024-04;luminosidade;320.0;2.082;0.0
+sirrosteste_UCS_AMV-21;2024-04;ruido;110.6;74.622;47.5
+sirrosteste_UCS_AMV-21;2024-04;temperatura;28.3;22.188;20.0
+sirrosteste_UCS_AMV-21;2024-04;umidade;77.0;63.915;49.4
+sirrosteste_UCS_AMV-22;2024-04;eco2;1715.0;32.554;0.0
+sirrosteste_UCS_AMV-22;2024-04;etvoc;2471.0;607.071;400.0
+sirrosteste_UCS_AMV-22;2024-04;luminosidade;57.6;2.751;0.0
+sirrosteste_UCS_AMV-22;2024-04;ruido;113.5;66.869;43.5
+sirrosteste_UCS_AMV-22;2024-04;temperatura;31.6;23.848;20.6
+sirrosteste_UCS_AMV-22;2024-04;umidade;83.4;65.172;45.4
+sirrosteste_UCS_AMV-23;2024-04;eco2;1161.0;101.749;0.0
+sirrosteste_UCS_AMV-23;2024-04;etvoc;2210.0;835.262;400.0
+sirrosteste_UCS_AMV-23;2024-04;luminosidade;10868.7;277.016;0.0
+sirrosteste_UCS_AMV-23;2024-04;ruido;120.0;73.582;41.4
+sirrosteste_UCS_AMV-23;2024-04;temperatura;31.0;20.798;14.8
+sirrosteste_UCS_AMV-23;2024-04;umidade;100.0;85.343;47.0
+Bento - Igreja Cristo Rei (15);2024-05;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-05;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-05;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-05;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-05;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-05;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-05;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-05;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-05;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-05;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-05;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-05;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-05;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-05;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-05;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-05;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-05;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-05;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-05;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-05;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-05;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-05;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-05;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-05;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2024-05;eco2;1194.0;48.051;0.0
+sirrosteste_UCS_AMV-05;2024-05;etvoc;2225.0;619.412;400.0
+sirrosteste_UCS_AMV-05;2024-05;luminosidade;3601.3;316.814;0.0
+sirrosteste_UCS_AMV-05;2024-05;ruido;112.5;72.459;48.8
+sirrosteste_UCS_AMV-05;2024-05;temperatura;31.8;15.304;4.9
+sirrosteste_UCS_AMV-05;2024-05;umidade;96.6;83.14;39.1
+sirrosteste_UCS_AMV-06;2024-05;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-06;2024-05;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-06;2024-05;luminosidade;780.8;53.115;0.4
+sirrosteste_UCS_AMV-06;2024-05;ruido;120.0;81.79;55.9
+sirrosteste_UCS_AMV-06;2024-05;temperatura;29.0;18.115;7.0
+sirrosteste_UCS_AMV-06;2024-05;umidade;99.9;91.2;45.5
+sirrosteste_UCS_AMV-07;2024-05;eco2;1166.0;96.787;0.0
+sirrosteste_UCS_AMV-07;2024-05;etvoc;2211.0;825.9;400.0
+sirrosteste_UCS_AMV-07;2024-05;luminosidade;1329.1;14.832;0.0
+sirrosteste_UCS_AMV-07;2024-05;ruido;109.7;56.626;39.2
+sirrosteste_UCS_AMV-07;2024-05;temperatura;21.7;15.527;11.5
+sirrosteste_UCS_AMV-07;2024-05;umidade;86.8;70.903;58.8
+sirrosteste_UCS_AMV-08;2024-05;eco2;1186.0;24.585;0.0
+sirrosteste_UCS_AMV-08;2024-05;etvoc;2220.0;434.363;400.0
+sirrosteste_UCS_AMV-08;2024-05;luminosidade;11770.7;559.882;0.0
+sirrosteste_UCS_AMV-08;2024-05;ruido;120.0;78.496;49.4
+sirrosteste_UCS_AMV-08;2024-05;temperatura;33.9;14.934;3.6
+sirrosteste_UCS_AMV-08;2024-05;umidade;98.0;84.777;39.4
+sirrosteste_UCS_AMV-09;2024-05;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-09;2024-05;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-09;2024-05;luminosidade;25.1;0.465;0.0
+sirrosteste_UCS_AMV-09;2024-05;ruido;100.6;81.498;45.3
+sirrosteste_UCS_AMV-09;2024-05;temperatura;24.4;17.453;12.5
+sirrosteste_UCS_AMV-09;2024-05;umidade;78.1;67.39;55.4
+sirrosteste_UCS_AMV-10;2024-05;eco2;1193.0;264.97;0.0
+sirrosteste_UCS_AMV-10;2024-05;etvoc;2225.0;998.561;400.0
+sirrosteste_UCS_AMV-10;2024-05;luminosidade;119.2;11.622;0.0
+sirrosteste_UCS_AMV-10;2024-05;ruido;120.0;72.693;47.4
+sirrosteste_UCS_AMV-10;2024-05;temperatura;27.5;19.41;13.6
+sirrosteste_UCS_AMV-10;2024-05;umidade;99.9;84.283;46.7
+sirrosteste_UCS_AMV-11;2024-05;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-05;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-05;luminosidade;7025.7;579.742;0.0
+sirrosteste_UCS_AMV-11;2024-05;ruido;114.7;72.826;47.8
+sirrosteste_UCS_AMV-11;2024-05;temperatura;24.6;16.854;16.6
+sirrosteste_UCS_AMV-11;2024-05;umidade;99.8;97.645;72.4
+sirrosteste_UCS_AMV-12;2024-05;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-05;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-05;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-05;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-05;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-05;eco2;1184.0;79.496;0.0
+sirrosteste_UCS_AMV-13;2024-05;etvoc;2219.0;810.699;400.0
+sirrosteste_UCS_AMV-13;2024-05;luminosidade;574.3;19.995;0.0
+sirrosteste_UCS_AMV-13;2024-05;ruido;109.0;57.51;38.6
+sirrosteste_UCS_AMV-13;2024-05;temperatura;21.8;15.758;11.9
+sirrosteste_UCS_AMV-13;2024-05;umidade;82.5;69.657;60.1
+sirrosteste_UCS_AMV-14;2024-05;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-05;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-05;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-05;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-05;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-05;eco2;46.0;15.621;0.0
+sirrosteste_UCS_AMV-15;2024-05;etvoc;705.0;405.331;400.0
+sirrosteste_UCS_AMV-15;2024-05;luminosidade;1129.2;91.008;0.0
+sirrosteste_UCS_AMV-15;2024-05;ruido;120.0;78.519;53.2
+sirrosteste_UCS_AMV-15;2024-05;temperatura;34.6;18.422;6.9
+sirrosteste_UCS_AMV-15;2024-05;umidade;98.6;83.459;38.6
+sirrosteste_UCS_AMV-16;2024-05;eco2;913.0;89.122;0.0
+sirrosteste_UCS_AMV-16;2024-05;etvoc;2095.0;927.823;400.0
+sirrosteste_UCS_AMV-16;2024-05;luminosidade;60.5;0.984;0.0
+sirrosteste_UCS_AMV-16;2024-05;ruido;102.1;58.332;46.7
+sirrosteste_UCS_AMV-16;2024-05;temperatura;28.3;17.707;12.6
+sirrosteste_UCS_AMV-16;2024-05;umidade;82.9;71.151;57.6
+sirrosteste_UCS_AMV-17;2024-05;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-05;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-05;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-05;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-05;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-05;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-05;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-18;2024-05;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-18;2024-05;luminosidade;5409.4;453.44;1.2
+sirrosteste_UCS_AMV-18;2024-05;ruido;120.0;83.009;51.9
+sirrosteste_UCS_AMV-18;2024-05;temperatura;33.2;15.253;3.5
+sirrosteste_UCS_AMV-18;2024-05;umidade;99.9;92.461;49.3
+sirrosteste_UCS_AMV-19;2024-05;eco2;1195.0;306.657;0.0
+sirrosteste_UCS_AMV-19;2024-05;etvoc;2226.0;1238.608;400.0
+sirrosteste_UCS_AMV-19;2024-05;luminosidade;543.1;58.348;0.0
+sirrosteste_UCS_AMV-19;2024-05;ruido;120.0;71.577;44.1
+sirrosteste_UCS_AMV-19;2024-05;temperatura;19.5;19.5;19.0
+sirrosteste_UCS_AMV-19;2024-05;umidade;89.9;89.797;87.2
+sirrosteste_UCS_AMV-20;2024-05;eco2;415.0;40.122;0.0
+sirrosteste_UCS_AMV-20;2024-05;etvoc;1771.0;660.808;400.0
+sirrosteste_UCS_AMV-20;2024-05;luminosidade;270.9;2.14;0.0
+sirrosteste_UCS_AMV-20;2024-05;ruido;104.5;57.09;43.5
+sirrosteste_UCS_AMV-20;2024-05;temperatura;28.3;17.38;12.0
+sirrosteste_UCS_AMV-20;2024-05;umidade;76.2;65.716;48.5
+sirrosteste_UCS_AMV-21;2024-05;eco2;883.0;52.085;0.0
+sirrosteste_UCS_AMV-21;2024-05;etvoc;2081.0;712.803;400.0
+sirrosteste_UCS_AMV-21;2024-05;luminosidade;15.0;0.806;0.0
+sirrosteste_UCS_AMV-21;2024-05;ruido;101.2;63.332;44.4
+sirrosteste_UCS_AMV-21;2024-05;temperatura;28.3;17.603;12.5
+sirrosteste_UCS_AMV-21;2024-05;umidade;79.9;68.338;55.6
+sirrosteste_UCS_AMV-22;2024-05;eco2;1002.0;88.697;4.0
+sirrosteste_UCS_AMV-22;2024-05;etvoc;2134.0;859.184;430.0
+sirrosteste_UCS_AMV-22;2024-05;luminosidade;96.4;3.322;0.0
+sirrosteste_UCS_AMV-22;2024-05;ruido;100.0;65.141;58.0
+sirrosteste_UCS_AMV-22;2024-05;temperatura;28.3;18.567;15.2
+sirrosteste_UCS_AMV-22;2024-05;umidade;82.1;65.335;56.5
+sirrosteste_UCS_AMV-23;2024-05;eco2;1191.0;86.301;0.0
+sirrosteste_UCS_AMV-23;2024-05;etvoc;2224.0;638.392;400.0
+sirrosteste_UCS_AMV-23;2024-05;luminosidade;2430.1;238.077;0.0
+sirrosteste_UCS_AMV-23;2024-05;ruido;113.6;78.91;45.8
+sirrosteste_UCS_AMV-23;2024-05;temperatura;28.3;14.645;4.1
+sirrosteste_UCS_AMV-23;2024-05;umidade;100.0;91.674;48.2
+Bento - Igreja Cristo Rei (15);2024-06;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-06;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-06;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-06;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-06;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-06;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-06;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-06;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-06;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-06;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-06;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-06;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-06;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-06;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-06;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-06;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-06;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-06;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-06;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-06;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-06;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-06;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-06;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-06;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-06;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-06;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-06;eco2;173.0;16.0;0.0
+sirrosteste_UCS_AMV-04;2024-06;etvoc;1470.0;504.268;400.0
+sirrosteste_UCS_AMV-04;2024-06;luminosidade;15.2;10.9;0.0
+sirrosteste_UCS_AMV-04;2024-06;ruido;99.6;85.456;64.6
+sirrosteste_UCS_AMV-04;2024-06;temperatura;19.5;17.885;16.5
+sirrosteste_UCS_AMV-04;2024-06;umidade;80.0;59.883;51.1
+sirrosteste_UCS_AMV-05;2024-06;eco2;289.0;4.492;0.0
+sirrosteste_UCS_AMV-05;2024-06;etvoc;1644.0;433.411;400.0
+sirrosteste_UCS_AMV-05;2024-06;luminosidade;2910.8;413.989;0.0
+sirrosteste_UCS_AMV-05;2024-06;ruido;101.4;71.729;49.6
+sirrosteste_UCS_AMV-05;2024-06;temperatura;60.0;15.94;0.0
+sirrosteste_UCS_AMV-05;2024-06;umidade;93.6;72.133;35.8
+sirrosteste_UCS_AMV-06;2024-06;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-06;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-06;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-06;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-06;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-06;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-06;eco2;594.0;60.784;0.0
+sirrosteste_UCS_AMV-07;2024-06;etvoc;1905.0;763.681;400.0
+sirrosteste_UCS_AMV-07;2024-06;luminosidade;1270.2;25.769;0.0
+sirrosteste_UCS_AMV-07;2024-06;ruido;100.0;56.309;40.5
+sirrosteste_UCS_AMV-07;2024-06;temperatura;24.6;17.897;12.5
+sirrosteste_UCS_AMV-07;2024-06;umidade;77.6;67.631;55.9
+sirrosteste_UCS_AMV-08;2024-06;eco2;371.0;19.544;0.0
+sirrosteste_UCS_AMV-08;2024-06;etvoc;1735.0;405.572;400.0
+sirrosteste_UCS_AMV-08;2024-06;luminosidade;8131.8;746.07;0.0
+sirrosteste_UCS_AMV-08;2024-06;ruido;110.3;78.019;48.2
+sirrosteste_UCS_AMV-08;2024-06;temperatura;3278.0;16.637;0.0
+sirrosteste_UCS_AMV-08;2024-06;umidade;95.7;71.203;28.5
+sirrosteste_UCS_AMV-09;2024-06;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-09;2024-06;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-09;2024-06;luminosidade;8.8;0.557;0.0
+sirrosteste_UCS_AMV-09;2024-06;ruido;120.0;85.321;46.6
+sirrosteste_UCS_AMV-09;2024-06;temperatura;23.0;17.161;9.4
+sirrosteste_UCS_AMV-09;2024-06;umidade;79.7;63.92;44.2
+sirrosteste_UCS_AMV-10;2024-06;eco2;927.0;1.578;0.0
+sirrosteste_UCS_AMV-10;2024-06;etvoc;2102.0;408.418;400.0
+sirrosteste_UCS_AMV-10;2024-06;luminosidade;88.2;13.77;0.0
+sirrosteste_UCS_AMV-10;2024-06;ruido;106.7;71.654;47.6
+sirrosteste_UCS_AMV-10;2024-06;temperatura;13.0;7.959;0.8
+sirrosteste_UCS_AMV-10;2024-06;umidade;97.4;71.756;38.4
+sirrosteste_UCS_AMV-11;2024-06;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-06;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-06;luminosidade;4689.4;523.087;0.0
+sirrosteste_UCS_AMV-11;2024-06;ruido;114.6;72.777;49.6
+sirrosteste_UCS_AMV-11;2024-06;temperatura;16.6;16.6;16.1
+sirrosteste_UCS_AMV-11;2024-06;umidade;98.2;98.199;96.1
+sirrosteste_UCS_AMV-12;2024-06;eco2;939.0;13.914;0.0
+sirrosteste_UCS_AMV-12;2024-06;etvoc;2108.0;464.361;400.0
+sirrosteste_UCS_AMV-12;2024-06;luminosidade;9259.8;114.261;0.0
+sirrosteste_UCS_AMV-12;2024-06;ruido;120.0;75.058;46.0
+sirrosteste_UCS_AMV-12;2024-06;temperatura;60.0;14.428;0.0
+sirrosteste_UCS_AMV-12;2024-06;umidade;85.4;63.237;22.7
+sirrosteste_UCS_AMV-13;2024-06;eco2;1165.0;53.943;0.0
+sirrosteste_UCS_AMV-13;2024-06;etvoc;2212.0;715.236;400.0
+sirrosteste_UCS_AMV-13;2024-06;luminosidade;549.9;33.736;0.0
+sirrosteste_UCS_AMV-13;2024-06;ruido;108.6;56.815;39.5
+sirrosteste_UCS_AMV-13;2024-06;temperatura;23.6;18.053;12.5
+sirrosteste_UCS_AMV-13;2024-06;umidade;74.9;66.403;51.7
+sirrosteste_UCS_AMV-14;2024-06;eco2;1187.0;139.82;0.0
+sirrosteste_UCS_AMV-14;2024-06;etvoc;2221.0;961.348;400.0
+sirrosteste_UCS_AMV-14;2024-06;luminosidade;7681.5;628.408;0.0
+sirrosteste_UCS_AMV-14;2024-06;ruido;120.0;70.36;44.6
+sirrosteste_UCS_AMV-14;2024-06;temperatura;29.7;13.06;0.7
+sirrosteste_UCS_AMV-14;2024-06;umidade;83.2;58.43;12.2
+sirrosteste_UCS_AMV-15;2024-06;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-06;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-06;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-06;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-06;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-06;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-06;eco2;1193.0;70.157;0.0
+sirrosteste_UCS_AMV-16;2024-06;etvoc;2222.0;766.406;400.0
+sirrosteste_UCS_AMV-16;2024-06;luminosidade;7427.1;144.794;0.0
+sirrosteste_UCS_AMV-16;2024-06;ruido;110.5;64.098;48.0
+sirrosteste_UCS_AMV-16;2024-06;temperatura;60.0;16.652;0.0
+sirrosteste_UCS_AMV-16;2024-06;umidade;99.9;72.222;32.6
+sirrosteste_UCS_AMV-17;2024-06;eco2;1184.0;76.275;0.0
+sirrosteste_UCS_AMV-17;2024-06;etvoc;2219.0;653.368;400.0
+sirrosteste_UCS_AMV-17;2024-06;luminosidade;13100.7;29.458;0.0
+sirrosteste_UCS_AMV-17;2024-06;ruido;120.0;74.612;48.2
+sirrosteste_UCS_AMV-17;2024-06;temperatura;60.0;12.941;0.0
+sirrosteste_UCS_AMV-17;2024-06;umidade;86.3;62.368;36.9
+sirrosteste_UCS_AMV-18;2024-06;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-18;2024-06;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-18;2024-06;luminosidade;4213.0;412.87;0.7
+sirrosteste_UCS_AMV-18;2024-06;ruido;120.0;83.402;53.6
+sirrosteste_UCS_AMV-18;2024-06;temperatura;28.6;16.664;3.7
+sirrosteste_UCS_AMV-18;2024-06;umidade;99.9;86.046;53.1
+sirrosteste_UCS_AMV-19;2024-06;eco2;1183.0;106.717;0.0
+sirrosteste_UCS_AMV-19;2024-06;etvoc;2220.0;808.85;400.0
+sirrosteste_UCS_AMV-19;2024-06;luminosidade;379.9;74.669;0.0
+sirrosteste_UCS_AMV-19;2024-06;ruido;110.5;67.186;44.7
+sirrosteste_UCS_AMV-19;2024-06;temperatura;19.5;19.5;19.5
+sirrosteste_UCS_AMV-19;2024-06;umidade;89.9;89.81;87.2
+sirrosteste_UCS_AMV-20;2024-06;eco2;437.0;46.614;0.0
+sirrosteste_UCS_AMV-20;2024-06;etvoc;1788.0;684.33;400.0
+sirrosteste_UCS_AMV-20;2024-06;luminosidade;42.4;1.881;0.0
+sirrosteste_UCS_AMV-20;2024-06;ruido;99.2;57.747;44.3
+sirrosteste_UCS_AMV-20;2024-06;temperatura;28.3;18.208;13.1
+sirrosteste_UCS_AMV-20;2024-06;umidade;72.5;64.18;52.5
+sirrosteste_UCS_AMV-21;2024-06;eco2;1002.0;44.43;0.0
+sirrosteste_UCS_AMV-21;2024-06;etvoc;2134.0;669.193;400.0
+sirrosteste_UCS_AMV-21;2024-06;luminosidade;6.3;0.87;0.0
+sirrosteste_UCS_AMV-21;2024-06;ruido;120.0;64.332;45.2
+sirrosteste_UCS_AMV-21;2024-06;temperatura;28.3;18.217;13.9
+sirrosteste_UCS_AMV-21;2024-06;umidade;81.6;67.603;54.5
+sirrosteste_UCS_AMV-22;2024-06;eco2;1184.0;237.197;0.0
+sirrosteste_UCS_AMV-22;2024-06;etvoc;2219.0;1137.925;400.0
+sirrosteste_UCS_AMV-22;2024-06;luminosidade;30.7;3.242;0.0
+sirrosteste_UCS_AMV-22;2024-06;ruido;102.1;68.051;59.1
+sirrosteste_UCS_AMV-22;2024-06;temperatura;15.6;15.6;15.6
+sirrosteste_UCS_AMV-22;2024-06;umidade;61.9;61.9;61.9
+sirrosteste_UCS_AMV-23;2024-06;eco2;1193.0;47.782;0.0
+sirrosteste_UCS_AMV-23;2024-06;etvoc;2224.0;513.123;400.0
+sirrosteste_UCS_AMV-23;2024-06;luminosidade;1993.0;255.282;0.0
+sirrosteste_UCS_AMV-23;2024-06;ruido;120.0;77.279;45.5
+sirrosteste_UCS_AMV-23;2024-06;temperatura;60.0;14.799;0.1
+sirrosteste_UCS_AMV-23;2024-06;umidade;100.0;82.672;36.5
+Bento - Igreja Cristo Rei (15);2024-07;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-07;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-07;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-07;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-07;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-07;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-07;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-07;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-07;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-07;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-07;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-07;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-07;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-07;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-07;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-07;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-07;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-07;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-07;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-07;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-07;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-07;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-07;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-07;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2024-07;eco2;11.0;0.002;0.0
+sirrosteste_UCS_AMV-05;2024-07;etvoc;479.0;403.765;401.0
+sirrosteste_UCS_AMV-05;2024-07;luminosidade;3157.6;322.396;0.0
+sirrosteste_UCS_AMV-05;2024-07;ruido;108.4;71.278;48.1
+sirrosteste_UCS_AMV-05;2024-07;temperatura;28.3;12.652;0.2
+sirrosteste_UCS_AMV-05;2024-07;umidade;94.5;77.47;23.0
+sirrosteste_UCS_AMV-06;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-07;etvoc;400.0;400.0;400.0
+sirrosteste_UCS_AMV-06;2024-07;luminosidade;1284.3;88.957;0.5
+sirrosteste_UCS_AMV-06;2024-07;ruido;120.0;83.981;58.2
+sirrosteste_UCS_AMV-06;2024-07;temperatura;25.3;13.945;1.7
+sirrosteste_UCS_AMV-06;2024-07;umidade;100.0;83.284;35.5
+sirrosteste_UCS_AMV-07;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-07;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-07;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-07;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-07;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-07;eco2;980.0;13.149;0.0
+sirrosteste_UCS_AMV-08;2024-07;etvoc;2128.0;419.668;400.0
+sirrosteste_UCS_AMV-08;2024-07;luminosidade;8494.5;704.713;0.0
+sirrosteste_UCS_AMV-08;2024-07;ruido;106.0;76.972;49.4
+sirrosteste_UCS_AMV-08;2024-07;temperatura;29.1;12.77;1.7
+sirrosteste_UCS_AMV-08;2024-07;umidade;97.6;77.886;23.0
+sirrosteste_UCS_AMV-09;2024-07;eco2;20.0;19.938;0.0
+sirrosteste_UCS_AMV-09;2024-07;etvoc;403.0;402.991;400.0
+sirrosteste_UCS_AMV-09;2024-07;luminosidade;1995.7;1.081;0.0
+sirrosteste_UCS_AMV-09;2024-07;ruido;120.0;86.549;49.2
+sirrosteste_UCS_AMV-09;2024-07;temperatura;28.2;14.323;9.0
+sirrosteste_UCS_AMV-09;2024-07;umidade;73.5;63.553;39.9
+sirrosteste_UCS_AMV-10;2024-07;eco2;1191.0;21.315;0.0
+sirrosteste_UCS_AMV-10;2024-07;etvoc;2221.0;493.08;400.0
+sirrosteste_UCS_AMV-10;2024-07;luminosidade;107.9;14.585;0.0
+sirrosteste_UCS_AMV-10;2024-07;ruido;110.3;72.283;43.8
+sirrosteste_UCS_AMV-10;2024-07;temperatura;23.2;12.43;2.9
+sirrosteste_UCS_AMV-10;2024-07;umidade;99.9;78.021;35.0
+sirrosteste_UCS_AMV-11;2024-07;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-07;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-07;luminosidade;5926.7;590.684;0.0
+sirrosteste_UCS_AMV-11;2024-07;ruido;120.0;72.792;46.9
+sirrosteste_UCS_AMV-11;2024-07;temperatura;16.6;16.6;16.6
+sirrosteste_UCS_AMV-11;2024-07;umidade;98.2;98.199;96.1
+sirrosteste_UCS_AMV-12;2024-07;eco2;1194.0;99.805;0.0
+sirrosteste_UCS_AMV-12;2024-07;etvoc;2226.0;673.863;400.0
+sirrosteste_UCS_AMV-12;2024-07;luminosidade;4802.0;129.046;0.0
+sirrosteste_UCS_AMV-12;2024-07;ruido;120.0;84.3;52.6
+sirrosteste_UCS_AMV-12;2024-07;temperatura;37.9;12.397;0.6
+sirrosteste_UCS_AMV-12;2024-07;umidade;90.7;73.066;22.0
+sirrosteste_UCS_AMV-13;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-07;etvoc;407.0;402.5;400.0
+sirrosteste_UCS_AMV-13;2024-07;luminosidade;838.8;830.525;825.6
+sirrosteste_UCS_AMV-13;2024-07;ruido;93.5;86.3;81.3
+sirrosteste_UCS_AMV-13;2024-07;temperatura;24.6;24.525;24.4
+sirrosteste_UCS_AMV-13;2024-07;umidade;48.3;48.125;47.9
+sirrosteste_UCS_AMV-14;2024-07;eco2;1197.0;356.341;0.0
+sirrosteste_UCS_AMV-14;2024-07;etvoc;2227.0;1305.214;400.0
+sirrosteste_UCS_AMV-14;2024-07;luminosidade;27306.2;619.516;0.0
+sirrosteste_UCS_AMV-14;2024-07;ruido;120.0;73.676;42.7
+sirrosteste_UCS_AMV-14;2024-07;temperatura;42.6;15.026;1.7
+sirrosteste_UCS_AMV-14;2024-07;umidade;83.8;65.239;13.2
+sirrosteste_UCS_AMV-15;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-07;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-07;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-07;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-07;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-07;eco2;286.0;13.08;0.0
+sirrosteste_UCS_AMV-16;2024-07;etvoc;1641.0;408.639;400.0
+sirrosteste_UCS_AMV-16;2024-07;luminosidade;9262.7;706.959;0.0
+sirrosteste_UCS_AMV-16;2024-07;ruido;107.7;75.586;48.2
+sirrosteste_UCS_AMV-16;2024-07;temperatura;32.1;11.176;0.3
+sirrosteste_UCS_AMV-16;2024-07;umidade;100.0;85.756;27.3
+sirrosteste_UCS_AMV-17;2024-07;eco2;1194.0;323.293;0.0
+sirrosteste_UCS_AMV-17;2024-07;etvoc;2224.0;1081.957;400.0
+sirrosteste_UCS_AMV-17;2024-07;luminosidade;110.3;6.276;-1.0
+sirrosteste_UCS_AMV-17;2024-07;ruido;106.5;76.436;46.8
+sirrosteste_UCS_AMV-17;2024-07;temperatura;26.0;11.712;1.4
+sirrosteste_UCS_AMV-17;2024-07;umidade;92.6;75.824;31.9
+sirrosteste_UCS_AMV-18;2024-07;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-18;2024-07;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-18;2024-07;luminosidade;4199.3;454.142;1.0
+sirrosteste_UCS_AMV-18;2024-07;ruido;114.3;83.446;48.8
+sirrosteste_UCS_AMV-18;2024-07;temperatura;20.3;8.27;2.4
+sirrosteste_UCS_AMV-18;2024-07;umidade;99.8;95.872;75.5
+sirrosteste_UCS_AMV-19;2024-07;eco2;109.0;9.086;0.0
+sirrosteste_UCS_AMV-19;2024-07;etvoc;1119.0;447.07;400.0
+sirrosteste_UCS_AMV-19;2024-07;luminosidade;485.9;78.732;0.0
+sirrosteste_UCS_AMV-19;2024-07;ruido;104.8;71.954;43.8
+sirrosteste_UCS_AMV-19;2024-07;temperatura;24.8;19.113;8.2
+sirrosteste_UCS_AMV-19;2024-07;umidade;98.4;87.192;56.6
+sirrosteste_UCS_AMV-20;2024-07;eco2;19.0;0.045;0.0
+sirrosteste_UCS_AMV-20;2024-07;etvoc;533.0;400.339;400.0
+sirrosteste_UCS_AMV-20;2024-07;luminosidade;3596.4;424.584;2.8
+sirrosteste_UCS_AMV-20;2024-07;ruido;120.0;74.564;51.7
+sirrosteste_UCS_AMV-20;2024-07;temperatura;24.8;12.079;7.0
+sirrosteste_UCS_AMV-20;2024-07;umidade;92.0;75.206;40.6
+sirrosteste_UCS_AMV-21;2024-07;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-07;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-07;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-07;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-07;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-07;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-07;eco2;1183.0;157.938;0.0
+sirrosteste_UCS_AMV-22;2024-07;etvoc;2218.0;996.241;400.0
+sirrosteste_UCS_AMV-22;2024-07;luminosidade;7213.8;157.372;-1.0
+sirrosteste_UCS_AMV-22;2024-07;ruido;114.7;71.915;55.0
+sirrosteste_UCS_AMV-22;2024-07;temperatura;27.0;16.419;14.3
+sirrosteste_UCS_AMV-22;2024-07;umidade;92.9;65.484;43.8
+sirrosteste_UCS_AMV-23;2024-07;eco2;1127.0;24.89;0.0
+sirrosteste_UCS_AMV-23;2024-07;etvoc;2194.0;445.218;400.0
+sirrosteste_UCS_AMV-23;2024-07;luminosidade;1910.9;237.623;0.0
+sirrosteste_UCS_AMV-23;2024-07;ruido;111.0;76.918;45.1
+sirrosteste_UCS_AMV-23;2024-07;temperatura;28.3;9.813;0.9
+sirrosteste_UCS_AMV-23;2024-07;umidade;100.0;91.316;37.8
+Bento - Igreja Cristo Rei (15);2024-08;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-08;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-08;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-08;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-08;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-08;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-08;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-08;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-08;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-08;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-08;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-08;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-08;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-08;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-08;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-08;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-08;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-08;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-08;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-08;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-08;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-08;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-08;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-08;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2024-08;eco2;20.0;15.342;0.0
+sirrosteste_UCS_AMV-05;2024-08;etvoc;403.0;402.534;401.0
+sirrosteste_UCS_AMV-05;2024-08;luminosidade;3444.1;443.105;0.0
+sirrosteste_UCS_AMV-05;2024-08;ruido;120.0;72.128;48.2
+sirrosteste_UCS_AMV-05;2024-08;temperatura;35.0;15.736;0.4
+sirrosteste_UCS_AMV-05;2024-08;umidade;94.6;68.418;26.4
+sirrosteste_UCS_AMV-06;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-08;etvoc;400.0;400.0;400.0
+sirrosteste_UCS_AMV-06;2024-08;luminosidade;1221.3;91.088;0.3
+sirrosteste_UCS_AMV-06;2024-08;ruido;120.0;85.78;68.5
+sirrosteste_UCS_AMV-06;2024-08;temperatura;26.6;18.748;12.8
+sirrosteste_UCS_AMV-06;2024-08;umidade;99.9;81.263;45.8
+sirrosteste_UCS_AMV-07;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-08;eco2;184.0;8.361;0.0
+sirrosteste_UCS_AMV-08;2024-08;etvoc;1518.0;410.998;403.0
+sirrosteste_UCS_AMV-08;2024-08;luminosidade;13997.2;1082.897;0.0
+sirrosteste_UCS_AMV-08;2024-08;ruido;112.3;78.439;49.1
+sirrosteste_UCS_AMV-08;2024-08;temperatura;35.5;15.419;0.7
+sirrosteste_UCS_AMV-08;2024-08;umidade;96.6;70.106;29.4
+sirrosteste_UCS_AMV-09;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-08;eco2;1165.0;14.576;0.0
+sirrosteste_UCS_AMV-10;2024-08;etvoc;2211.0;437.182;400.0
+sirrosteste_UCS_AMV-10;2024-08;luminosidade;109.9;17.437;0.0
+sirrosteste_UCS_AMV-10;2024-08;ruido;115.2;72.689;43.8
+sirrosteste_UCS_AMV-10;2024-08;temperatura;30.3;15.629;2.8
+sirrosteste_UCS_AMV-10;2024-08;umidade;96.2;68.063;33.5
+sirrosteste_UCS_AMV-11;2024-08;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-08;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-08;luminosidade;8054.2;754.98;0.0
+sirrosteste_UCS_AMV-11;2024-08;ruido;113.4;72.791;46.2
+sirrosteste_UCS_AMV-11;2024-08;temperatura;35.0;15.313;2.2
+sirrosteste_UCS_AMV-11;2024-08;umidade;98.2;88.686;29.9
+sirrosteste_UCS_AMV-12;2024-08;eco2;1194.0;108.886;0.0
+sirrosteste_UCS_AMV-12;2024-08;etvoc;2226.0;668.5;401.0
+sirrosteste_UCS_AMV-12;2024-08;luminosidade;3236.5;244.736;2.0
+sirrosteste_UCS_AMV-12;2024-08;ruido;101.6;77.504;56.1
+sirrosteste_UCS_AMV-12;2024-08;temperatura;41.1;19.404;11.7
+sirrosteste_UCS_AMV-12;2024-08;umidade;85.3;63.972;27.4
+sirrosteste_UCS_AMV-13;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-08;eco2;1196.0;320.608;0.0
+sirrosteste_UCS_AMV-14;2024-08;etvoc;2226.0;1113.147;400.0
+sirrosteste_UCS_AMV-14;2024-08;luminosidade;27306.2;742.224;0.0
+sirrosteste_UCS_AMV-14;2024-08;ruido;120.0;74.582;42.6
+sirrosteste_UCS_AMV-14;2024-08;temperatura;44.5;18.901;2.5
+sirrosteste_UCS_AMV-14;2024-08;umidade;82.3;56.025;10.5
+sirrosteste_UCS_AMV-15;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-08;eco2;171.0;17.801;0.0
+sirrosteste_UCS_AMV-16;2024-08;etvoc;1498.0;411.31;400.0
+sirrosteste_UCS_AMV-16;2024-08;luminosidade;14602.4;928.885;0.0
+sirrosteste_UCS_AMV-16;2024-08;ruido;120.0;76.96;47.7
+sirrosteste_UCS_AMV-16;2024-08;temperatura;60.0;13.901;0.0
+sirrosteste_UCS_AMV-16;2024-08;umidade;100.0;79.369;20.7
+sirrosteste_UCS_AMV-17;2024-08;eco2;1190.0;179.213;0.0
+sirrosteste_UCS_AMV-17;2024-08;etvoc;2222.0;774.929;400.0
+sirrosteste_UCS_AMV-17;2024-08;luminosidade;91.9;9.226;-1.0
+sirrosteste_UCS_AMV-17;2024-08;ruido;104.2;76.491;45.6
+sirrosteste_UCS_AMV-17;2024-08;temperatura;26.4;13.193;0.8
+sirrosteste_UCS_AMV-17;2024-08;umidade;91.2;72.652;36.1
+sirrosteste_UCS_AMV-18;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-08;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-19;2024-08;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-19;2024-08;luminosidade;454.5;78.097;0.0
+sirrosteste_UCS_AMV-19;2024-08;ruido;105.4;67.918;44.5
+sirrosteste_UCS_AMV-19;2024-08;temperatura;24.3;17.997;12.7
+sirrosteste_UCS_AMV-19;2024-08;umidade;89.5;81.445;57.0
+sirrosteste_UCS_AMV-20;2024-08;eco2;41.0;6.22;0.0
+sirrosteste_UCS_AMV-20;2024-08;etvoc;676.0;401.279;400.0
+sirrosteste_UCS_AMV-20;2024-08;luminosidade;5574.2;473.347;0.5
+sirrosteste_UCS_AMV-20;2024-08;ruido;120.0;70.725;38.3
+sirrosteste_UCS_AMV-20;2024-08;temperatura;3278.3;13.793;0.0
+sirrosteste_UCS_AMV-20;2024-08;umidade;95.2;71.783;27.1
+sirrosteste_UCS_AMV-21;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-08;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-08;eco2;1193.0;54.031;0.0
+sirrosteste_UCS_AMV-22;2024-08;etvoc;2224.0;565.662;400.0
+sirrosteste_UCS_AMV-22;2024-08;luminosidade;-1.0;-1.0;-1.0
+sirrosteste_UCS_AMV-22;2024-08;ruido;114.8;82.957;47.8
+sirrosteste_UCS_AMV-22;2024-08;temperatura;30.1;14.351;4.6
+sirrosteste_UCS_AMV-22;2024-08;umidade;95.4;85.85;34.2
+sirrosteste_UCS_AMV-23;2024-08;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-08;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-08;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-08;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-08;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-08;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-09;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-09;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-09;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-09;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-09;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-09;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-09;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-09;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-09;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-09;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-09;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-09;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-09;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-09;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-09;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-09;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-09;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-09;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-09;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-09;eco2;299.0;45.266;0.0
+sirrosteste_UCS_AMV-04;2024-09;etvoc;1659.0;695.619;404.0
+sirrosteste_UCS_AMV-04;2024-09;luminosidade;2231.0;12.158;0.0
+sirrosteste_UCS_AMV-04;2024-09;ruido;104.1;84.611;54.7
+sirrosteste_UCS_AMV-04;2024-09;temperatura;26.6;21.692;18.1
+sirrosteste_UCS_AMV-04;2024-09;umidade;73.2;59.48;45.8
+sirrosteste_UCS_AMV-05;2024-09;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2024-09;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2024-09;luminosidade;9218.6;598.995;0.0
+sirrosteste_UCS_AMV-05;2024-09;ruido;120.0;72.971;49.4
+sirrosteste_UCS_AMV-05;2024-09;temperatura;35.0;19.375;6.3
+sirrosteste_UCS_AMV-05;2024-09;umidade;95.9;69.699;24.5
+sirrosteste_UCS_AMV-06;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-09;eco2;542.0;75.034;0.0
+sirrosteste_UCS_AMV-07;2024-09;etvoc;1869.0;861.439;400.0
+sirrosteste_UCS_AMV-07;2024-09;luminosidade;886.8;13.908;0.0
+sirrosteste_UCS_AMV-07;2024-09;ruido;102.0;56.029;39.2
+sirrosteste_UCS_AMV-07;2024-09;temperatura;27.3;21.582;17.8
+sirrosteste_UCS_AMV-07;2024-09;umidade;71.5;58.551;44.5
+sirrosteste_UCS_AMV-08;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-09;etvoc;408.0;408.0;408.0
+sirrosteste_UCS_AMV-08;2024-09;luminosidade;27306.2;1824.602;0.0
+sirrosteste_UCS_AMV-08;2024-09;ruido;120.0;78.287;47.3
+sirrosteste_UCS_AMV-08;2024-09;temperatura;34.0;18.971;6.0
+sirrosteste_UCS_AMV-08;2024-09;umidade;97.9;72.117;29.3
+sirrosteste_UCS_AMV-09;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-09;eco2;20.0;15.505;0.0
+sirrosteste_UCS_AMV-10;2024-09;etvoc;442.0;403.02;401.0
+sirrosteste_UCS_AMV-10;2024-09;luminosidade;115.1;24.339;0.0
+sirrosteste_UCS_AMV-10;2024-09;ruido;120.0;72.901;47.9
+sirrosteste_UCS_AMV-10;2024-09;temperatura;30.4;19.397;5.0
+sirrosteste_UCS_AMV-10;2024-09;umidade;99.9;67.561;34.2
+sirrosteste_UCS_AMV-11;2024-09;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-09;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-09;luminosidade;6716.1;953.806;0.0
+sirrosteste_UCS_AMV-11;2024-09;ruido;120.0;73.107;48.9
+sirrosteste_UCS_AMV-11;2024-09;temperatura;22.5;15.148;8.4
+sirrosteste_UCS_AMV-11;2024-09;umidade;99.9;71.295;56.6
+sirrosteste_UCS_AMV-12;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-09;eco2;1197.0;265.627;0.0
+sirrosteste_UCS_AMV-14;2024-09;etvoc;2226.0;1033.237;400.0
+sirrosteste_UCS_AMV-14;2024-09;luminosidade;23316.0;628.553;0.0
+sirrosteste_UCS_AMV-14;2024-09;ruido;120.0;75.084;43.3
+sirrosteste_UCS_AMV-14;2024-09;temperatura;49.9;21.478;6.8
+sirrosteste_UCS_AMV-14;2024-09;umidade;83.6;60.174;12.4
+sirrosteste_UCS_AMV-15;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-09;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2024-09;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2024-09;luminosidade;27306.2;1219.925;0.0
+sirrosteste_UCS_AMV-16;2024-09;ruido;120.0;77.259;47.4
+sirrosteste_UCS_AMV-16;2024-09;temperatura;36.3;16.741;2.3
+sirrosteste_UCS_AMV-16;2024-09;umidade;100.0;83.385;25.2
+sirrosteste_UCS_AMV-17;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-09;etvoc;400.0;400.0;400.0
+sirrosteste_UCS_AMV-20;2024-09;luminosidade;7835.7;640.847;2.5
+sirrosteste_UCS_AMV-20;2024-09;ruido;120.0;71.141;38.7
+sirrosteste_UCS_AMV-20;2024-09;temperatura;37.5;16.666;1.8
+sirrosteste_UCS_AMV-20;2024-09;umidade;95.9;74.123;25.4
+sirrosteste_UCS_AMV-21;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-09;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-09;eco2;1083.0;11.692;0.0
+sirrosteste_UCS_AMV-22;2024-09;etvoc;2173.0;475.177;400.0
+sirrosteste_UCS_AMV-22;2024-09;luminosidade;-1.0;-1.0;-1.0
+sirrosteste_UCS_AMV-22;2024-09;ruido;120.0;83.318;50.3
+sirrosteste_UCS_AMV-22;2024-09;temperatura;15.3;15.3;15.3
+sirrosteste_UCS_AMV-22;2024-09;umidade;91.3;91.249;89.1
+sirrosteste_UCS_AMV-23;2024-09;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-09;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-09;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-09;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-09;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-09;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-10;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-10;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-10;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-10;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-10;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-10;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-10;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-10;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-10;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-10;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-10;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-10;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-10;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-10;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-10;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-10;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-10;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-10;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-10;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-10;eco2;1195.0;71.672;0.0
+sirrosteste_UCS_AMV-04;2024-10;etvoc;2226.0;754.558;400.0
+sirrosteste_UCS_AMV-04;2024-10;luminosidade;1451.4;6.687;0.0
+sirrosteste_UCS_AMV-04;2024-10;ruido;109.2;82.912;50.0
+sirrosteste_UCS_AMV-04;2024-10;temperatura;28.3;22.673;18.7
+sirrosteste_UCS_AMV-04;2024-10;umidade;74.3;56.845;40.5
+sirrosteste_UCS_AMV-05;2024-10;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2024-10;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2024-10;luminosidade;18135.8;917.49;0.0
+sirrosteste_UCS_AMV-05;2024-10;ruido;120.0;74.309;51.7
+sirrosteste_UCS_AMV-05;2024-10;temperatura;38.8;20.255;7.8
+sirrosteste_UCS_AMV-05;2024-10;umidade;95.8;69.53;27.5
+sirrosteste_UCS_AMV-06;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-10;eco2;772.0;79.206;0.0
+sirrosteste_UCS_AMV-07;2024-10;etvoc;2015.0;874.293;400.0
+sirrosteste_UCS_AMV-07;2024-10;luminosidade;776.9;11.477;0.0
+sirrosteste_UCS_AMV-07;2024-10;ruido;103.6;57.204;39.3
+sirrosteste_UCS_AMV-07;2024-10;temperatura;27.2;22.147;18.4
+sirrosteste_UCS_AMV-07;2024-10;umidade;73.1;55.494;40.0
+sirrosteste_UCS_AMV-08;2024-10;eco2;71.0;0.343;0.0
+sirrosteste_UCS_AMV-08;2024-10;etvoc;873.0;410.183;408.0
+sirrosteste_UCS_AMV-08;2024-10;luminosidade;27306.2;2314.839;0.0
+sirrosteste_UCS_AMV-08;2024-10;ruido;120.0;78.88;49.8
+sirrosteste_UCS_AMV-08;2024-10;temperatura;35.3;17.118;7.5
+sirrosteste_UCS_AMV-08;2024-10;umidade;97.9;79.691;34.8
+sirrosteste_UCS_AMV-09;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-10;eco2;999.0;4.1;0.0
+sirrosteste_UCS_AMV-10;2024-10;etvoc;2136.0;428.338;400.0
+sirrosteste_UCS_AMV-10;2024-10;luminosidade;152.4;29.41;0.0
+sirrosteste_UCS_AMV-10;2024-10;ruido;113.7;73.174;44.5
+sirrosteste_UCS_AMV-10;2024-10;temperatura;32.2;19.769;8.6
+sirrosteste_UCS_AMV-10;2024-10;umidade;99.9;69.19;30.2
+sirrosteste_UCS_AMV-11;2024-10;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-10;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-10;luminosidade;8087.8;1051.551;0.0
+sirrosteste_UCS_AMV-11;2024-10;ruido;120.0;73.709;51.4
+sirrosteste_UCS_AMV-11;2024-10;temperatura;17.8;17.8;17.3
+sirrosteste_UCS_AMV-11;2024-10;umidade;76.0;76.0;75.5
+sirrosteste_UCS_AMV-12;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-10;eco2;1187.0;247.2;0.0
+sirrosteste_UCS_AMV-14;2024-10;etvoc;2221.0;1073.905;400.0
+sirrosteste_UCS_AMV-14;2024-10;luminosidade;27306.2;542.646;0.0
+sirrosteste_UCS_AMV-14;2024-10;ruido;114.4;74.845;43.3
+sirrosteste_UCS_AMV-14;2024-10;temperatura;40.4;19.664;9.1
+sirrosteste_UCS_AMV-14;2024-10;umidade;83.2;65.251;17.6
+sirrosteste_UCS_AMV-15;2024-10;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-15;2024-10;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-15;2024-10;luminosidade;1000.1;158.688;0.0
+sirrosteste_UCS_AMV-15;2024-10;ruido;106.5;80.079;56.0
+sirrosteste_UCS_AMV-15;2024-10;temperatura;26.7;19.545;7.2
+sirrosteste_UCS_AMV-15;2024-10;umidade;93.0;79.457;55.1
+sirrosteste_UCS_AMV-16;2024-10;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2024-10;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2024-10;luminosidade;27306.2;1484.119;0.0
+sirrosteste_UCS_AMV-16;2024-10;ruido;120.0;78.208;48.9
+sirrosteste_UCS_AMV-16;2024-10;temperatura;36.3;17.076;5.7
+sirrosteste_UCS_AMV-16;2024-10;umidade;100.0;85.994;28.5
+sirrosteste_UCS_AMV-17;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-10;etvoc;400.0;400.0;400.0
+sirrosteste_UCS_AMV-20;2024-10;luminosidade;9139.7;708.276;2.5
+sirrosteste_UCS_AMV-20;2024-10;ruido;120.0;71.845;42.1
+sirrosteste_UCS_AMV-20;2024-10;temperatura;26.4;13.856;5.4
+sirrosteste_UCS_AMV-20;2024-10;umidade;94.2;77.392;34.5
+sirrosteste_UCS_AMV-21;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-10;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-10;eco2;1039.0;8.817;2.0
+sirrosteste_UCS_AMV-22;2024-10;etvoc;2150.0;458.935;417.0
+sirrosteste_UCS_AMV-22;2024-10;luminosidade;-1.0;-1.0;-1.0
+sirrosteste_UCS_AMV-22;2024-10;ruido;120.0;87.701;50.2
+sirrosteste_UCS_AMV-22;2024-10;temperatura;15.3;15.3;15.3
+sirrosteste_UCS_AMV-22;2024-10;umidade;91.3;91.252;89.2
+sirrosteste_UCS_AMV-23;2024-10;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-10;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-10;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-10;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-10;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-10;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-11;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-11;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-11;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-11;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-11;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-11;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2024-11;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-11;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2024-11;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-11;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-11;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-11;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-11;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-11;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-11;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-11;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-11;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-11;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-11;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-11;eco2;1184.0;72.959;0.0
+sirrosteste_UCS_AMV-04;2024-11;etvoc;2218.0;794.626;400.0
+sirrosteste_UCS_AMV-04;2024-11;luminosidade;9.4;0.208;0.0
+sirrosteste_UCS_AMV-04;2024-11;ruido;106.5;84.943;81.2
+sirrosteste_UCS_AMV-04;2024-11;temperatura;28.0;24.37;20.6
+sirrosteste_UCS_AMV-04;2024-11;umidade;66.0;55.737;40.3
+sirrosteste_UCS_AMV-05;2024-11;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2024-11;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2024-11;luminosidade;14820.9;803.173;0.0
+sirrosteste_UCS_AMV-05;2024-11;ruido;109.6;73.912;50.7
+sirrosteste_UCS_AMV-05;2024-11;temperatura;40.5;22.674;10.0
+sirrosteste_UCS_AMV-05;2024-11;umidade;95.8;66.907;26.4
+sirrosteste_UCS_AMV-06;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-11;eco2;1167.0;90.041;0.0
+sirrosteste_UCS_AMV-07;2024-11;etvoc;2210.0;871.099;400.0
+sirrosteste_UCS_AMV-07;2024-11;luminosidade;50.6;2.64;0.0
+sirrosteste_UCS_AMV-07;2024-11;ruido;102.9;56.699;39.4
+sirrosteste_UCS_AMV-07;2024-11;temperatura;29.1;24.475;20.3
+sirrosteste_UCS_AMV-07;2024-11;umidade;72.6;53.58;40.6
+sirrosteste_UCS_AMV-08;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-11;eco2;264.0;6.094;0.0
+sirrosteste_UCS_AMV-10;2024-11;etvoc;1621.0;417.504;400.0
+sirrosteste_UCS_AMV-10;2024-11;luminosidade;503.3;40.118;0.0
+sirrosteste_UCS_AMV-10;2024-11;ruido;115.5;72.105;43.1
+sirrosteste_UCS_AMV-10;2024-11;temperatura;41.6;22.399;12.5
+sirrosteste_UCS_AMV-10;2024-11;umidade;92.1;64.905;26.9
+sirrosteste_UCS_AMV-11;2024-11;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-11;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-11;luminosidade;11380.0;1582.943;0.0
+sirrosteste_UCS_AMV-11;2024-11;ruido;120.0;73.378;46.1
+sirrosteste_UCS_AMV-11;2024-11;temperatura;17.8;17.799;17.3
+sirrosteste_UCS_AMV-11;2024-11;umidade;76.0;75.999;75.5
+sirrosteste_UCS_AMV-12;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-11;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2024-11;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2024-11;luminosidade;27306.2;1864.881;0.0
+sirrosteste_UCS_AMV-16;2024-11;ruido;120.0;77.813;44.9
+sirrosteste_UCS_AMV-16;2024-11;temperatura;40.4;19.293;7.7
+sirrosteste_UCS_AMV-16;2024-11;umidade;100.0;85.0;30.3
+sirrosteste_UCS_AMV-17;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-11;eco2;20.0;19.874;0.0
+sirrosteste_UCS_AMV-20;2024-11;etvoc;403.0;402.981;400.0
+sirrosteste_UCS_AMV-20;2024-11;luminosidade;15918.9;1201.221;2.4
+sirrosteste_UCS_AMV-20;2024-11;ruido;120.0;78.019;62.2
+sirrosteste_UCS_AMV-20;2024-11;temperatura;31.2;20.837;9.4
+sirrosteste_UCS_AMV-20;2024-11;umidade;94.2;78.019;45.4
+sirrosteste_UCS_AMV-21;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-11;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-11;eco2;301.0;20.095;20.0
+sirrosteste_UCS_AMV-23;2024-11;etvoc;1662.0;403.471;403.0
+sirrosteste_UCS_AMV-23;2024-11;luminosidade;27306.2;1383.118;0.0
+sirrosteste_UCS_AMV-23;2024-11;ruido;120.0;75.851;41.0
+sirrosteste_UCS_AMV-23;2024-11;temperatura;44.8;23.793;11.0
+sirrosteste_UCS_AMV-23;2024-11;umidade;100.0;67.154;21.8
+Bento - Igreja Cristo Rei (15);2024-12;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-12;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-12;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-12;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-12;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2024-12;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2024-12;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2024-12;umidade;0.0;0.0;0.0
+Canela - CIT (12);2024-12;eco2;0.0;0.0;0.0
+Canela - CIT (12);2024-12;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2024-12;luminosidade;592.0;592.0;592.0
+Canela - CIT (12);2024-12;ruido;0.0;0.0;0.0
+Canela - CIT (12);2024-12;temperatura;40.6;40.6;40.6
+Canela - CIT (12);2024-12;umidade;33.2;33.2;33.2
+Canela - Distrito Industrial (14);2024-12;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-12;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-12;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-12;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-12;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2024-12;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2024-12;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2024-12;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2024-12;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2024-12;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2024-12;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2024-12;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2024-12;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2024-12;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2024-12;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2024-12;eco2;1017.0;51.555;0.0
+sirrosteste_UCS_AMV-04;2024-12;etvoc;2144.0;725.955;400.0
+sirrosteste_UCS_AMV-04;2024-12;luminosidade;17.7;0.416;0.0
+sirrosteste_UCS_AMV-04;2024-12;ruido;96.6;85.731;75.6
+sirrosteste_UCS_AMV-04;2024-12;temperatura;27.8;24.983;22.3
+sirrosteste_UCS_AMV-04;2024-12;umidade;63.3;55.686;48.2
+sirrosteste_UCS_AMV-05;2024-12;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2024-12;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2024-12;luminosidade;6086.1;726.119;0.0
+sirrosteste_UCS_AMV-05;2024-12;ruido;120.0;73.677;49.4
+sirrosteste_UCS_AMV-05;2024-12;temperatura;39.1;21.868;11.7
+sirrosteste_UCS_AMV-05;2024-12;umidade;96.1;69.677;28.8
+sirrosteste_UCS_AMV-06;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2024-12;eco2;858.0;82.165;0.0
+sirrosteste_UCS_AMV-07;2024-12;etvoc;2064.0;837.667;400.0
+sirrosteste_UCS_AMV-07;2024-12;luminosidade;36.5;1.181;0.0
+sirrosteste_UCS_AMV-07;2024-12;ruido;102.4;54.726;38.6
+sirrosteste_UCS_AMV-07;2024-12;temperatura;27.4;23.788;20.1
+sirrosteste_UCS_AMV-07;2024-12;umidade;65.9;56.824;48.4
+sirrosteste_UCS_AMV-08;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2024-12;eco2;268.0;1.759;0.0
+sirrosteste_UCS_AMV-10;2024-12;etvoc;1622.0;414.75;400.0
+sirrosteste_UCS_AMV-10;2024-12;luminosidade;701.3;42.399;0.0
+sirrosteste_UCS_AMV-10;2024-12;ruido;113.8;70.949;41.6
+sirrosteste_UCS_AMV-10;2024-12;temperatura;38.7;22.047;13.5
+sirrosteste_UCS_AMV-10;2024-12;umidade;95.4;66.351;29.3
+sirrosteste_UCS_AMV-11;2024-12;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2024-12;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2024-12;luminosidade;11330.2;1592.795;0.0
+sirrosteste_UCS_AMV-11;2024-12;ruido;120.0;73.108;49.8
+sirrosteste_UCS_AMV-11;2024-12;temperatura;17.8;17.799;17.3
+sirrosteste_UCS_AMV-11;2024-12;umidade;76.0;75.999;75.5
+sirrosteste_UCS_AMV-12;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2024-12;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2024-12;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2024-12;luminosidade;27306.2;1979.396;0.0
+sirrosteste_UCS_AMV-16;2024-12;ruido;120.0;77.099;46.6
+sirrosteste_UCS_AMV-16;2024-12;temperatura;38.7;18.81;9.8
+sirrosteste_UCS_AMV-16;2024-12;umidade;100.0;86.123;36.3
+sirrosteste_UCS_AMV-17;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2024-12;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-20;2024-12;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-20;2024-12;luminosidade;27306.2;1269.135;2.2
+sirrosteste_UCS_AMV-20;2024-12;ruido;120.0;72.996;44.9
+sirrosteste_UCS_AMV-20;2024-12;temperatura;37.1;18.146;9.7
+sirrosteste_UCS_AMV-20;2024-12;umidade;96.7;77.098;36.8
+sirrosteste_UCS_AMV-21;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2024-12;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2024-12;eco2;20.0;18.691;0.0
+sirrosteste_UCS_AMV-23;2024-12;etvoc;468.0;403.718;400.0
+sirrosteste_UCS_AMV-23;2024-12;luminosidade;27306.2;1442.504;0.0
+sirrosteste_UCS_AMV-23;2024-12;ruido;109.6;73.671;40.0
+sirrosteste_UCS_AMV-23;2024-12;temperatura;44.7;21.968;13.7
+sirrosteste_UCS_AMV-23;2024-12;umidade;100.0;75.625;25.1
+Bento - Igreja Cristo Rei (15);2025-01;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-01;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-01;luminosidade;1539.0;1539.0;1539.0
+Bento - Igreja Cristo Rei (15);2025-01;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-01;temperatura;34.2;34.2;34.2
+Bento - Igreja Cristo Rei (15);2025-01;umidade;42.8;42.8;42.8
+Bento - Igreja São Bento (18);2025-01;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-01;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-01;luminosidade;2.0;2.0;2.0
+Bento - Igreja São Bento (18);2025-01;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-01;temperatura;13.6;13.6;13.6
+Bento - Igreja São Bento (18);2025-01;umidade;97.0;97.0;97.0
+Bento - UPA Zona Sul (08);2025-01;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-01;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-01;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-01;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-01;temperatura;19.7;19.4;19.1
+Bento - UPA Zona Sul (08);2025-01;umidade;89.4;88.1;86.8
+Canela - CIT (12);2025-01;eco2;0.0;0.0;0.0
+Canela - CIT (12);2025-01;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2025-01;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2025-01;ruido;0.0;0.0;0.0
+Canela - CIT (12);2025-01;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2025-01;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-01;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-01;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-01;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-01;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-01;temperatura;21.4;21.4;21.4
+Canela - Distrito Industrial (14);2025-01;umidade;77.1;77.1;77.1
+Caxias - Praça Dante (06);2025-01;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-01;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-01;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-01;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-01;temperatura;18.8;18.8;18.8
+Caxias - Praça Dante (06);2025-01;umidade;99.9;99.9;99.9
+Caxias - UBS São José (05);2025-01;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-01;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-01;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-01;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-01;temperatura;19.4;19.4;19.4
+Caxias - UBS São José (05);2025-01;umidade;90.1;90.1;90.1
+Gramado - Prefeitura (22);2025-01;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-01;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-01;luminosidade;-1.0;-1.0;-1.0
+Gramado - Prefeitura (22);2025-01;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-01;temperatura;24.7;24.7;24.7
+Gramado - Prefeitura (22);2025-01;umidade;34.6;34.6;34.6
+Sao Chico - Antiga Seplan (16);2025-01;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-01;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-01;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-01;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-01;temperatura;16.8;16.8;16.8
+Sao Chico - Antiga Seplan (16);2025-01;umidade;99.9;99.9;99.9
+São Chico - Biblioteca Pública (20);2025-01;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-01;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-01;luminosidade;2.0;2.0;2.0
+São Chico - Biblioteca Pública (20);2025-01;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-01;temperatura;15.3;15.3;15.3
+São Chico - Biblioteca Pública (20);2025-01;umidade;85.9;85.9;85.9
+São Chico - Escola (21);2025-01;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2025-01;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2025-01;luminosidade;103.0;103.0;103.0
+São Chico - Escola (21);2025-01;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2025-01;temperatura;30.9;30.9;30.9
+São Chico - Escola (21);2025-01;umidade;48.5;48.5;48.5
+mqttx_5017eabb;2025-01;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2025-01;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2025-01;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-01;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2025-01;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2025-01;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-01;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-01;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-01;eco2;1181.0;70.967;0.0
+sirrosteste_UCS_AMV-04;2025-01;etvoc;2217.0;823.597;400.0
+sirrosteste_UCS_AMV-04;2025-01;luminosidade;7.1;0.323;0.0
+sirrosteste_UCS_AMV-04;2025-01;ruido;102.0;85.328;55.4
+sirrosteste_UCS_AMV-04;2025-01;temperatura;30.4;27.099;24.4
+sirrosteste_UCS_AMV-04;2025-01;umidade;60.2;53.08;39.9
+sirrosteste_UCS_AMV-05;2025-01;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2025-01;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2025-01;luminosidade;8359.1;840.732;0.0
+sirrosteste_UCS_AMV-05;2025-01;ruido;109.0;72.046;43.9
+sirrosteste_UCS_AMV-05;2025-01;temperatura;40.8;24.802;14.1
+sirrosteste_UCS_AMV-05;2025-01;umidade;95.6;65.458;26.5
+sirrosteste_UCS_AMV-06;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-01;eco2;353.0;55.04;0.0
+sirrosteste_UCS_AMV-07;2025-01;etvoc;1715.0;761.408;400.0
+sirrosteste_UCS_AMV-07;2025-01;luminosidade;13.3;1.065;0.0
+sirrosteste_UCS_AMV-07;2025-01;ruido;101.4;54.169;38.8
+sirrosteste_UCS_AMV-07;2025-01;temperatura;30.1;26.805;23.9
+sirrosteste_UCS_AMV-07;2025-01;umidade;60.1;52.689;39.8
+sirrosteste_UCS_AMV-08;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-01;eco2;533.0;2.511;0.0
+sirrosteste_UCS_AMV-10;2025-01;etvoc;1862.0;420.05;400.0
+sirrosteste_UCS_AMV-10;2025-01;luminosidade;696.1;46.1;0.0
+sirrosteste_UCS_AMV-10;2025-01;ruido;107.3;69.831;42.9
+sirrosteste_UCS_AMV-10;2025-01;temperatura;39.5;24.793;16.8
+sirrosteste_UCS_AMV-10;2025-01;umidade;88.2;62.726;28.9
+sirrosteste_UCS_AMV-11;2025-01;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2025-01;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2025-01;luminosidade;12877.0;1566.434;0.0
+sirrosteste_UCS_AMV-11;2025-01;ruido;120.0;72.217;43.8
+sirrosteste_UCS_AMV-11;2025-01;temperatura;17.8;17.799;17.3
+sirrosteste_UCS_AMV-11;2025-01;umidade;76.0;75.999;75.5
+sirrosteste_UCS_AMV-12;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2025-01;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2025-01;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2025-01;luminosidade;27306.2;1844.665;0.0
+sirrosteste_UCS_AMV-16;2025-01;ruido;111.2;75.951;46.6
+sirrosteste_UCS_AMV-16;2025-01;temperatura;41.4;21.203;11.1
+sirrosteste_UCS_AMV-16;2025-01;umidade;99.9;84.843;39.1
+sirrosteste_UCS_AMV-17;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-01;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-01;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-02;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-02;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-02;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-02;luminosidade;4511.0;4511.0;4511.0
+Bento - Igreja São Bento (18);2025-02;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-02;temperatura;36.6;36.6;36.6
+Bento - Igreja São Bento (18);2025-02;umidade;58.0;58.0;58.0
+Bento - UPA Zona Sul (08);2025-02;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-02;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-02;luminosidade;1235.0;1235.0;1235.0
+Bento - UPA Zona Sul (08);2025-02;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-02;temperatura;34.8;34.8;34.8
+Bento - UPA Zona Sul (08);2025-02;umidade;46.4;46.4;46.4
+Canela - CIT (12);2025-02;eco2;0.0;0.0;0.0
+Canela - CIT (12);2025-02;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2025-02;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2025-02;ruido;0.0;0.0;0.0
+Canela - CIT (12);2025-02;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2025-02;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-02;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-02;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-02;luminosidade;769.0;769.0;769.0
+Canela - Distrito Industrial (14);2025-02;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-02;temperatura;37.0;37.0;37.0
+Canela - Distrito Industrial (14);2025-02;umidade;37.0;37.0;37.0
+Caxias - Praça Dante (06);2025-02;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-02;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-02;luminosidade;337.0;337.0;337.0
+Caxias - Praça Dante (06);2025-02;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-02;temperatura;28.2;28.2;28.2
+Caxias - Praça Dante (06);2025-02;umidade;73.8;73.8;73.8
+Caxias - UBS São José (05);2025-02;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-02;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-02;luminosidade;727.0;727.0;727.0
+Caxias - UBS São José (05);2025-02;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-02;temperatura;31.9;31.9;31.9
+Caxias - UBS São José (05);2025-02;umidade;52.4;52.4;52.4
+Gramado - Prefeitura (22);2025-02;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-02;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-02;luminosidade;-1.0;-1.0;-1.0
+Gramado - Prefeitura (22);2025-02;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-02;temperatura;24.7;24.7;24.7
+Gramado - Prefeitura (22);2025-02;umidade;34.6;34.6;34.6
+Sao Chico - Antiga Seplan (16);2025-02;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-02;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-02;luminosidade;2935.0;2935.0;2935.0
+Sao Chico - Antiga Seplan (16);2025-02;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-02;temperatura;31.6;31.6;31.6
+Sao Chico - Antiga Seplan (16);2025-02;umidade;53.4;53.4;53.4
+São Chico - Biblioteca Pública (20);2025-02;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-02;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-02;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-02;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-02;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-02;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2025-02;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2025-02;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-02;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-02;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-02;eco2;398.0;67.136;0.0
+sirrosteste_UCS_AMV-04;2025-02;etvoc;1756.0;826.064;400.0
+sirrosteste_UCS_AMV-04;2025-02;luminosidade;7.9;0.396;0.0
+sirrosteste_UCS_AMV-04;2025-02;ruido;100.6;84.828;49.0
+sirrosteste_UCS_AMV-04;2025-02;temperatura;30.0;27.991;25.3
+sirrosteste_UCS_AMV-04;2025-02;umidade;61.6;54.474;38.2
+sirrosteste_UCS_AMV-05;2025-02;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2025-02;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2025-02;luminosidade;9466.6;1057.757;0.0
+sirrosteste_UCS_AMV-05;2025-02;ruido;109.3;70.339;42.8
+sirrosteste_UCS_AMV-05;2025-02;temperatura;41.2;27.5;17.9
+sirrosteste_UCS_AMV-05;2025-02;umidade;95.0;64.22;28.6
+sirrosteste_UCS_AMV-06;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-02;eco2;455.0;53.564;0.0
+sirrosteste_UCS_AMV-07;2025-02;etvoc;1804.0;745.401;400.0
+sirrosteste_UCS_AMV-07;2025-02;luminosidade;46.3;1.298;0.0
+sirrosteste_UCS_AMV-07;2025-02;ruido;98.9;55.97;39.8
+sirrosteste_UCS_AMV-07;2025-02;temperatura;30.6;27.931;24.4
+sirrosteste_UCS_AMV-07;2025-02;umidade;61.9;53.443;37.7
+sirrosteste_UCS_AMV-08;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-02;eco2;224.0;7.561;0.0
+sirrosteste_UCS_AMV-10;2025-02;etvoc;1573.0;405.694;400.0
+sirrosteste_UCS_AMV-10;2025-02;luminosidade;286.5;39.71;0.0
+sirrosteste_UCS_AMV-10;2025-02;ruido;108.6;70.859;44.6
+sirrosteste_UCS_AMV-10;2025-02;temperatura;37.5;27.202;20.1
+sirrosteste_UCS_AMV-10;2025-02;umidade;87.5;62.156;33.0
+sirrosteste_UCS_AMV-11;2025-02;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2025-02;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2025-02;luminosidade;9163.8;1157.175;0.0
+sirrosteste_UCS_AMV-11;2025-02;ruido;120.0;72.532;45.5
+sirrosteste_UCS_AMV-11;2025-02;temperatura;17.8;17.799;17.3
+sirrosteste_UCS_AMV-11;2025-02;umidade;76.0;75.999;75.5
+sirrosteste_UCS_AMV-12;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2025-02;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2025-02;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2025-02;luminosidade;27306.2;1515.777;0.0
+sirrosteste_UCS_AMV-16;2025-02;ruido;120.0;75.588;46.9
+sirrosteste_UCS_AMV-16;2025-02;temperatura;42.2;23.86;15.8
+sirrosteste_UCS_AMV-16;2025-02;umidade;100.0;82.904;33.6
+sirrosteste_UCS_AMV-17;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-02;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-02;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-03;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-03;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-03;umidade;0.0;0.0;0.0
+Canela - CIT (12);2025-03;eco2;0.0;0.0;0.0
+Canela - CIT (12);2025-03;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2025-03;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2025-03;ruido;0.0;0.0;0.0
+Canela - CIT (12);2025-03;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2025-03;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-03;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-03;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-03;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-03;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-03;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-03;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2025-03;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2025-03;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-03;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-03;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-03;eco2;1187.0;178.326;0.0
+sirrosteste_UCS_AMV-04;2025-03;etvoc;2219.0;1034.177;400.0
+sirrosteste_UCS_AMV-04;2025-03;luminosidade;2196.7;1.773;0.0
+sirrosteste_UCS_AMV-04;2025-03;ruido;120.0;77.091;40.6
+sirrosteste_UCS_AMV-04;2025-03;temperatura;32.1;23.914;21.1
+sirrosteste_UCS_AMV-04;2025-03;umidade;74.4;65.155;32.7
+sirrosteste_UCS_AMV-05;2025-03;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-05;2025-03;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-05;2025-03;luminosidade;5383.2;869.421;0.0
+sirrosteste_UCS_AMV-05;2025-03;ruido;102.0;70.511;43.2
+sirrosteste_UCS_AMV-05;2025-03;temperatura;40.4;25.107;14.0
+sirrosteste_UCS_AMV-05;2025-03;umidade;94.3;65.506;32.2
+sirrosteste_UCS_AMV-06;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-03;etvoc;405.0;401.0;400.0
+sirrosteste_UCS_AMV-07;2025-03;luminosidade;38.4;35.358;31.7
+sirrosteste_UCS_AMV-07;2025-03;ruido;81.2;75.108;69.6
+sirrosteste_UCS_AMV-07;2025-03;temperatura;26.1;26.025;25.9
+sirrosteste_UCS_AMV-07;2025-03;umidade;44.4;42.45;40.1
+sirrosteste_UCS_AMV-08;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-03;eco2;202.0;6.612;0.0
+sirrosteste_UCS_AMV-10;2025-03;etvoc;1544.0;447.053;400.0
+sirrosteste_UCS_AMV-10;2025-03;luminosidade;148.7;29.764;0.0
+sirrosteste_UCS_AMV-10;2025-03;ruido;108.1;71.905;43.6
+sirrosteste_UCS_AMV-10;2025-03;temperatura;35.2;24.685;16.0
+sirrosteste_UCS_AMV-10;2025-03;umidade;93.6;65.175;35.7
+sirrosteste_UCS_AMV-11;2025-03;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-11;2025-03;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-11;2025-03;luminosidade;7924.6;955.92;0.0
+sirrosteste_UCS_AMV-11;2025-03;ruido;120.0;72.493;44.1
+sirrosteste_UCS_AMV-11;2025-03;temperatura;22.9;17.783;16.8
+sirrosteste_UCS_AMV-11;2025-03;umidade;99.9;79.667;75.5
+sirrosteste_UCS_AMV-12;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-03;eco2;69.0;12.044;0.0
+sirrosteste_UCS_AMV-13;2025-03;etvoc;862.0;401.977;400.0
+sirrosteste_UCS_AMV-13;2025-03;luminosidade;6162.3;330.696;0.0
+sirrosteste_UCS_AMV-13;2025-03;ruido;120.0;80.24;47.5
+sirrosteste_UCS_AMV-13;2025-03;temperatura;28.2;21.738;14.8
+sirrosteste_UCS_AMV-13;2025-03;umidade;88.1;67.939;38.4
+sirrosteste_UCS_AMV-14;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2025-03;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2025-03;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2025-03;luminosidade;27306.2;1050.837;0.0
+sirrosteste_UCS_AMV-16;2025-03;ruido;105.0;75.536;49.6
+sirrosteste_UCS_AMV-16;2025-03;temperatura;41.4;21.768;11.4
+sirrosteste_UCS_AMV-16;2025-03;umidade;100.0;82.186;31.8
+sirrosteste_UCS_AMV-17;2025-03;eco2;1183.0;129.36;0.0
+sirrosteste_UCS_AMV-17;2025-03;etvoc;2217.0;970.808;400.0
+sirrosteste_UCS_AMV-17;2025-03;luminosidade;139.8;26.454;0.0
+sirrosteste_UCS_AMV-17;2025-03;ruido;103.6;78.385;51.2
+sirrosteste_UCS_AMV-17;2025-03;temperatura;24.6;18.9;14.3
+sirrosteste_UCS_AMV-17;2025-03;umidade;92.1;77.479;44.1
+sirrosteste_UCS_AMV-18;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-03;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-20;2025-03;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-20;2025-03;luminosidade;1872.3;143.469;2.3
+sirrosteste_UCS_AMV-20;2025-03;ruido;110.9;84.108;72.3
+sirrosteste_UCS_AMV-20;2025-03;temperatura;25.6;18.395;16.9
+sirrosteste_UCS_AMV-20;2025-03;umidade;85.7;81.408;59.5
+sirrosteste_UCS_AMV-21;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-03;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-03;umidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;eco2;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;etvoc;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;luminosidade;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;ruido;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;temperatura;0.0;0.0;0.0
+Bento - Igreja Cristo Rei (15);2025-04;umidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;eco2;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;etvoc;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;luminosidade;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;ruido;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;temperatura;0.0;0.0;0.0
+Bento - Igreja São Bento (18);2025-04;umidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;eco2;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;etvoc;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;luminosidade;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;ruido;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;temperatura;0.0;0.0;0.0
+Bento - UPA Zona Sul (08);2025-04;umidade;0.0;0.0;0.0
+Canela - CIT (12);2025-04;eco2;0.0;0.0;0.0
+Canela - CIT (12);2025-04;etvoc;0.0;0.0;0.0
+Canela - CIT (12);2025-04;luminosidade;0.0;0.0;0.0
+Canela - CIT (12);2025-04;ruido;0.0;0.0;0.0
+Canela - CIT (12);2025-04;temperatura;0.0;0.0;0.0
+Canela - CIT (12);2025-04;umidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;eco2;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;etvoc;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;luminosidade;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;ruido;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;temperatura;0.0;0.0;0.0
+Canela - Distrito Industrial (14);2025-04;umidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;eco2;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;etvoc;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;luminosidade;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;ruido;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;temperatura;0.0;0.0;0.0
+Caxias - Praça Dante (06);2025-04;umidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;eco2;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;etvoc;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;luminosidade;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;ruido;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;temperatura;0.0;0.0;0.0
+Caxias - UBS São José (05);2025-04;umidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;eco2;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;etvoc;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;luminosidade;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;ruido;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;temperatura;0.0;0.0;0.0
+Gramado - Prefeitura (22);2025-04;umidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;eco2;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;etvoc;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;luminosidade;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;ruido;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;temperatura;0.0;0.0;0.0
+Sao Chico - Antiga Seplan (16);2025-04;umidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;eco2;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;etvoc;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;luminosidade;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;ruido;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;temperatura;0.0;0.0;0.0
+São Chico - Biblioteca Pública (20);2025-04;umidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;eco2;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;etvoc;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;luminosidade;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;ruido;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;temperatura;0.0;0.0;0.0
+São Chico - Escola (21);2025-04;umidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;eco2;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;etvoc;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;luminosidade;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;ruido;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;temperatura;0.0;0.0;0.0
+mqttx_5017eabb;2025-04;umidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;eco2;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;etvoc;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;luminosidade;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;ruido;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;temperatura;0.0;0.0;0.0
+mqttx_samuel_emqx;2025-04;umidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;eco2;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;etvoc;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;luminosidade;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;ruido;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;temperatura;0.0;0.0;0.0
+nodered_51f94f58d301833b;2025-04;umidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;eco2;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;etvoc;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;luminosidade;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;ruido;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;temperatura;0.0;0.0;0.0
+nodered_bd2dfc796a7d7625;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-01;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-04;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-05;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-06;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-07;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-08;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-09;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-10;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-11;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-12;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-13;2025-04;etvoc;400.0;400.0;400.0
+sirrosteste_UCS_AMV-13;2025-04;luminosidade;1585.4;152.4;0.0
+sirrosteste_UCS_AMV-13;2025-04;ruido;109.2;78.046;50.6
+sirrosteste_UCS_AMV-13;2025-04;temperatura;27.7;21.47;19.1
+sirrosteste_UCS_AMV-13;2025-04;umidade;89.0;81.291;61.4
+sirrosteste_UCS_AMV-14;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-14;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-15;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-16;2025-04;eco2;20.0;20.0;20.0
+sirrosteste_UCS_AMV-16;2025-04;etvoc;403.0;403.0;403.0
+sirrosteste_UCS_AMV-16;2025-04;luminosidade;8770.0;871.759;0.0
+sirrosteste_UCS_AMV-16;2025-04;ruido;106.2;76.609;49.1
+sirrosteste_UCS_AMV-16;2025-04;temperatura;29.0;19.682;17.4
+sirrosteste_UCS_AMV-16;2025-04;umidade;99.9;94.895;61.0
+sirrosteste_UCS_AMV-17;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-17;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-18;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-19;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-20;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-21;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-22;2025-04;umidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;eco2;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;etvoc;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;luminosidade;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;ruido;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;temperatura;0.0;0.0;0.0
+sirrosteste_UCS_AMV-23;2025-04;umidade;0.0;0.0;0.0
